@@ -1,0 +1,53 @@
+body{
+	background:blue:#3f3f3f3f;
+	color:#555;
+	font:normal;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin:0;
+
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow: hidden;
+}
+#home-header{
+	background-color: coral;
+	color:#fff;
+}
+#navigator{
+	background-color: #333;
+	color: #fff;
+}
+#navigator ul{
+	padding: 0;
+	list-style: none;
+}
+#navigator li{
+	display: inline;
+
+}
+#navigator a{
+	color:#fff;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px;
+}
+
+#showcase{
+	background-image: url('../images/nikhil.png');
+	background-position: center right;
+	height: :300px;
+}
+#main-footer{
+	text-align: center;
+	background-color: #fff;
+	color: #333;
+	padding:20px;
+	margin-top: 40px;
+	
+}
+
+
+	
